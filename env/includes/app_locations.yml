@@ -198,7 +198,7 @@ apps.tk-desktop-timecard.location:
   name: tk-desktop-timecard
   type: git
   path: https://github.com/demon7x/tk-desktop-timecard.git
-  version: v1.0.0
+  version: v1.0.1
 
 ################################################################################
 # reference all of the common frameworks
