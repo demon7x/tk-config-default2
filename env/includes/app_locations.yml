@@ -193,6 +193,13 @@ apps.tk-mari-projectmanager.location:
   type: app_store
   version: v1.2.1
 
+
+apps.tk-desktop-timecard.location:
+  name: tk-desktop-timecard
+  type: git
+  path: https://github.com/demon7x/tk-desktop-timecard.git
+  version: v1.0.0
+
 ################################################################################
 # reference all of the common frameworks
 frameworks: '@frameworks'
